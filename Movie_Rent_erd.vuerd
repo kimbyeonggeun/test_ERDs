@@ -49,7 +49,7 @@
           {
             "name": "UNIQUE_ID",
             "comment": "대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -72,7 +72,7 @@
           {
             "name": "MOVIE_NAME_AND_GENRE",
             "comment": "영화 이름과 장르",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -97,7 +97,7 @@
           "active": false,
           "left": 77,
           "top": 20,
-          "zIndex": 128,
+          "zIndex": 145,
           "widthName": 102.140625,
           "widthComment": 60
         },
@@ -111,7 +111,7 @@
           {
             "name": "NAME",
             "comment": "이름",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -134,7 +134,7 @@
           {
             "name": "UNIQUE_ID_RENTER",
             "comment": "대여자 대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -159,7 +159,7 @@
           "active": false,
           "left": 600,
           "top": 448,
-          "zIndex": 130,
+          "zIndex": 157,
           "widthName": 60,
           "widthComment": 60
         },
@@ -173,7 +173,7 @@
           {
             "name": "UNIQUE_ID",
             "comment": "대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -196,7 +196,7 @@
           {
             "name": "UNIQUE_ID_RENTER",
             "comment": "대여자 대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -235,7 +235,7 @@
           {
             "name": "UNIQUE_ID",
             "comment": "대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -258,7 +258,7 @@
           {
             "name": "UNIQUE_ID_POSTER_LIST",
             "comment": "포스터 목록 대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -283,7 +283,7 @@
           "active": false,
           "left": 71,
           "top": 237,
-          "zIndex": 122,
+          "zIndex": 146,
           "widthName": 60,
           "widthComment": 60
         },
@@ -297,7 +297,7 @@
           {
             "name": "POSTER",
             "comment": "포스터",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -320,7 +320,7 @@
           {
             "name": "UNIQUE_ID_POSTER_LIST",
             "comment": "포스터 목록 대표값",
-            "dataType": "",
+            "dataType": "VARCHAR",
             "default": "",
             "option": {
               "autoIncrement": false,
@@ -345,7 +345,7 @@
           "active": false,
           "left": 71,
           "top": 455,
-          "zIndex": 125,
+          "zIndex": 150,
           "widthName": 71.5703125,
           "widthComment": 60
         },
