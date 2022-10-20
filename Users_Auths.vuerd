@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": -3,
+    "scrollTop": -233,
+    "scrollLeft": -36,
     "zoomLevel": 1,
     "show": {
       "tableComment": true,
@@ -93,7 +93,7 @@
             "id": "532eec2d-292f-491a-bfa5-1d9486790c6f"
           },
           {
-            "name": "E-MAIL",
+            "name": "EMAIL",
             "comment": "이메일",
             "dataType": "VARCHAR(200)",
             "default": "",
@@ -143,7 +143,7 @@
           "active": false,
           "left": 86,
           "top": 57,
-          "zIndex": 94,
+          "zIndex": 6,
           "widthName": 60,
           "widthComment": 60
         },
@@ -205,7 +205,7 @@
           "active": false,
           "left": 54,
           "top": 562,
-          "zIndex": 98,
+          "zIndex": 3,
           "widthName": 85.60498046875,
           "widthComment": 67
         },
@@ -267,7 +267,7 @@
           "active": false,
           "left": 81,
           "top": 325,
-          "zIndex": 69,
+          "zIndex": 10,
           "widthName": 60,
           "widthComment": 60
         },
