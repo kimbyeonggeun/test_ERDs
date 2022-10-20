@@ -7,6 +7,7 @@
 ## INNER_JOIN
 [Products_CategoryID](./INNERJOIN/Products_CategoryID.sql)
 [Products_Quantity](./INNERJOIN/Products_Quantity.sql)
+[Users_auth_names](./INNERJOIN/Users_Auth_names.sql)
 
 ## Multi_board
 [vuerd](./Multi_board/Multi_board.vuerd)  
