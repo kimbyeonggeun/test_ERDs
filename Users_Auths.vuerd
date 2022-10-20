@@ -217,7 +217,7 @@
         "comment": "권한들",
         "columns": [
           {
-            "name": "UNIQUE_ID",
+            "name": "UNIQUE_ID_USERS",
             "comment": "대표값",
             "dataType": "VARCHAR(200)",
             "default": "",
@@ -232,7 +232,7 @@
               "pk": false,
               "fk": true,
               "pfk": false,
-              "widthName": 68.87255859375,
+              "widthName": 112.3095703125,
               "widthComment": 60,
               "widthDataType": 89.29296875,
               "widthDefault": 60
@@ -264,10 +264,10 @@
           }
         ],
         "ui": {
-          "active": false,
+          "active": true,
           "left": 81,
           "top": 325,
-          "zIndex": 10,
+          "zIndex": 12,
           "widthName": 60,
           "widthComment": 60
         },
