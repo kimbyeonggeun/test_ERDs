@@ -1,5 +1,6 @@
-## w3schools를 사용
+## w3schools / Users_Auths ERD 사용
 [w3schools](https://www.w3schools.com/mysql/mysql_ref_functions.asp)
+[ERD](/Users_Auths.png)
 
 ## good_influences
 [folder](./good_influences_erd/)
